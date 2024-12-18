@@ -13,6 +13,7 @@ function page() {
         <Link href={`/`}>
         <li>Back to Home page</li>
         </Link>
+        <h1></h1>
     </ul>
     </div>
   )
